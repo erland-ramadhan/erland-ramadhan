@@ -2,8 +2,8 @@
 - 👀 I’m interested in mathematics, physics, and anyting related to computer
 - 🌱 I’m currently learning mathematics, physics (especially QM), and programming languages
 <!--- - 💞️ I’m looking to collaborate on ... --->
-- 📫 How to reach me:
-  - E-mail: mwkerr1916@icloud.com (To start communication, different email for further)
+<!--- - 📫 How to reach me:
+  - E-mail: mwkerr1916@icloud.com (To start communication, different email for further) --->
 
 <!---
 erland-ramadhan/erland-ramadhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
